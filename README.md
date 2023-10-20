@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkateswarlu Kasireddy</h1>
-<h3 align="center">Aspiring to become a software Engineer in Big Tech Giants.</h3>
+<h3 align="center">📧 Let's connect! I am excited about the opportunity to collaborate, learn, and contribute to the dynamic world of software development. Feel free to reach out to me at vijayarjun817@gmail.com or connect with me on https://www.linkedin.com/in/venkateswarlu-kasireddy-51a5b0197/ to explore how we can create exceptional software together.
+
+Looking forward to the exciting journey ahead! 🚀.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateswarlu589&label=Profile%20views&color=0e75b6&style=flat" alt="venkateswarlu589" /> </p>
 
