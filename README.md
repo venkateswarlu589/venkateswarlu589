@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkateswarlu Kasireddy</h1>
-<div align="center"> <img src="https://photos.google.com/photo/AF1QipNSNKNeiLsvwnnr8AOJS93aPqYpdDUagyg5M80G"> </div>
+<div align="center"> <img src="https://drive.google.com/file/d/1-_byDLFU9P6TWxlqfKk6Sfa_E-oHLBof/view"> </div>
 <h3 align="center">A Passionate Software Engineer From India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateswarlu589&label=Profile%20views&color=0e75b6&style=flat" alt="venkateswarlu589" /> </p>
