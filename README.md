@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkateswarlu Kasireddy</h1>
 <div align="center"> <img src="https://drive.google.com/file/d/1-_byDLFU9P6TWxlqfKk6Sfa_E-oHLBof/view"> </div>
 <h3 align="center">A Passionate Software Engineer From India.</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateswarlu589&label=Profile%20views&color=0e75b6&style=flat" alt="venkateswarlu589" /> </p>
 <p align="left"> <a href="https://twitter.com/kasired85061173" target="blank"><img src="https://img.shields.io/twitter/follow/kasired85061173?logo=twitter&style=for-the-badge" alt="kasired85061173" /></a> </p>
