@@ -39,6 +39,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=venkateswarlu589&" alt="venkateswarlu589" /></p>
 
-!.[Snake animation].(https://github.com/venkateswarlu589/venkateswarlu589/blob/output/github-contribution-grid-snake.svg)
+![](https://raw.githubusercontent.com/venkateswarlu589/venkateswarlu589/output/github-contribution-grid-snake.svg)
 
 
